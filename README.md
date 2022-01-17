@@ -1,5 +1,9 @@
-- hello!
+hello!
+
 - I am flarnrules
+- I am learning web design and trying to learn software development
+- I'm currently enrolled in the Harvard CS50 course, with a goal to complete in 2022
+
 - I am interested in blockchain technology
 - I am interested in decentralized finance
 - I am interested in decentralized and play to earn online gaming

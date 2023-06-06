@@ -1,10 +1,29 @@
 # hello github!
 
 - I am flarnrules
+- I am building a blockchain ecosystem called Flarnchain
+- This task, which I started in February 2021... is a fairly complex task.
+- There are elements of almost every single facet of the human experience involved in designing and working towards the deployment of a unique blockchain ecosystem.
+- Blockchains, at least in the Cosmos Network, are "Replicated State Machines", which are esssentially these sort of nebulous unkillable operating systems.
+- They exist as full, Turing complete, operating systems - that are open to the public.
+- When I think of an operating system, the first few words that come to mind are: Windows, MacOS, and Linux. These are operating systems.
+    - To use operating systems, we need to have a computer.
+    - A computer is a 'state machine'
+    - Some computers, like the machine that I'm using right now, are physical things. They exist in the reality where we can reach out and touch them.
+    - Other computers, like Virtual Machines or VMs can exist inside our computers.
+    - Cloud VMs exist inside other people's computers, but can run an instance on our machine.
+    - Like remotely piloting a drone, but for a computer!
+    - Replicated State Machines, exist on multiple computers... simultaneously.
+    - Like a cluster (which is essentially multiple cloud VMs).
+    - But different from a cluster (A single entity is in charge of this group of VMs)
+    - A Replicated State Machine is controlled by multiple agents, each with their own incentives.
+    - The software level of a Replicated State Machine is updated based on a collective... group of decision makers, where the ability to be one of those decision makers is 100% permissionless, resulting in a sort of pvp combined with pve game theory.
+
 - I am learning web design and trying to learn software development
-- I'm currently in the W3 Builder's Alliance Q1 2023 cohort.
-- Learning smart contracts in Rust
-- Learning Rust, CosmWasm
+- I'm currently in the W3 Builder's Alliance Q1 2023 cohort. // did not complete my capstone project "Sentry Nodes" but learned a lot, and progressed "Sentry Nodes" along significantly.
+- Learning smart contracts in Rust // have not written any smart contracts, in Rust, but I have devised a few ideas!
+- Learning Rust, CosmWasm // these are two totally different things. Rust is a systems programming language. CosmWasm is a framework for cosmos SDK based blockchain smart contracts, that use webassembly for deployment on blockchains. Even that is not quite correct.
+- Realizing that 
 
 ## Current learning path:
 - Harvard CS50x (computer science ~ general)

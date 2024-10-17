@@ -23,18 +23,22 @@
 - I'm currently in the W3 Builder's Alliance Q1 2023 cohort. // did not complete my capstone project "Sentry Nodes" but learned a lot, and progressed "Sentry Nodes" along significantly.
 - Learning smart contracts in Rust // have not written any smart contracts, in Rust, but I have devised a few ideas!
 - Learning Rust, CosmWasm // these are two totally different things. Rust is a systems programming language. CosmWasm is a framework for cosmos SDK based blockchain smart contracts, that use webassembly for deployment on blockchains. Even that is not quite correct.
-- Realizing that 
+- Realizing that, it becomes clear how significant of an endeavor this is.
+- Thankfully, I gave myself 12 years to accomplish this task. We are only in year 4 right now... but I feel like I haven't made as much progress as I was hoping.
+- I also missed an awful lot of flarnchain newsletters in the past few months...
 
 ## Current learning path:
 - Harvard CS50x (computer science ~ general)
 - The Odin Project (web development)
 - Web3 Builder's Alliance Q1 2023 cohort (smart contracts written in Rust)
+- OSSU - The Open Source Society University (online version of a computer science degree)
 
 
 ## Current education books:
 - Learn Python in one day and LEARN IT WELL (50% complete)
 - The Rust Programming Language (10% complete)
 - Invent Your Own Computer Games With Python (0% complete)
+- Processing: Creative Coding and Computational Art
 
 ## Websites:
 - https://www.flarnchain.com -> built with Wix.
@@ -61,6 +65,9 @@
 - Sentry Nodes (nft project, to be deployed on Stargaze blockchain)
 - Flarncoin (multi-chain cryptocurrency, TBD)
 - Flarnchain (blockchain built with cosmos SDK, TBD)
+- Towers (a meta collection, meta nft project, and other stuff, including Proto Towers)
+- frogs (a meta collection, meta nft project, and other stuff, including the frogs art engine)
+- 
 
 
 <!---
